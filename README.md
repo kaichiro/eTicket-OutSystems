@@ -27,4 +27,4 @@ It is basic and intermediate to start a web project in OutSystems, structuring i
 ![](./img/eTicket_Web.png)
 
 ---
-Access [eTicket here!]([https](https://kaichiro.outsystemscloud.com/eTicket_Web/))
+Access [eTicket here!](https://kaichiro.outsystemscloud.com/eTicket_Web/)
